@@ -1,1 +1,1 @@
-# leetcode-data-structures-solutions in c
+# leetcode-data-structures-solutions in python
